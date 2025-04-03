@@ -18,7 +18,7 @@ Aprender Python realizando ejercicios prácticos diarios para mejorar mis habili
 ## 📚 Recursos
 - [Python Oficial](https://www.python.org/)
 - [W3Schools Python](https://www.w3schools.com/python/)
-- [PildorasInformaticas] (https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
+- [PildorasInformaticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 
 ## 🌟 Motivación
 > "La práctica constante es la clave del éxito en programación". 
