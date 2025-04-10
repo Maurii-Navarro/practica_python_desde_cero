@@ -10,6 +10,7 @@ Aprender Python realizando ejercicios prácticos diarios para mejorar mis habili
 |-------------|--------------------------|-----------------------------|
 | 01-04-2025  | Sintaxis básica          | [dia1.py](dia1.py) |
 | 02-04-2025  | Listas y diccionarios    | [dia2.py](dia2.py)   |
+| 03-04.2025  | Funciones sin parametros | [dia3.py](dia3.py) |
 
 ## 🛠 Cómo usar este repositorio
 - Cada archivo corresponde a un día de práctica.
