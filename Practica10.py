@@ -11,3 +11,8 @@ print(float(c))
 print(type(a))
 print(type(b))
 print(type(c))
+
+edad = 22
+
+print("Su edad es: " + str(edad))
+print(type(edad))
